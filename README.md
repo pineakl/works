@@ -37,7 +37,9 @@ Year  : 2022<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/13)<br>
 
 ### What Lies in the Woods
-<img src="woods-0.png" style="width:240; height:auto"><br>
+<img src="woods-0.png" style="width:240; height:auto"/>
+<img src="woods-1.png" style="width:240; height:auto"/>
+<br>
 Tools : Unity<br>
 Year : 2019<br>
 Link : [Global Game Jam](https://globalgamejam.org/2019/games/what-lies-in-the-woods)<br>
