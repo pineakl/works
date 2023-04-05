@@ -1,5 +1,5 @@
 # Previous Works
-Markdown document showing my previous works
+Markdown document showing my previous works, some works not included.
 
 ### Dewa Game App
 <img src="dgmobile.jpg" style="width:auto; height:320px"><br>
@@ -57,14 +57,14 @@ Year : 2018<br>
 Link : [Global Game Jam](https://globalgamejam.org/2018/games/host-recon)<br>
 
 ### Rogue Tail
-<img src="roguetail-0.png" style="width:auto; height:240px"> <img src="roguetail-1.png" style="width:auto; height:240px"> <img src="hostrecon-2.png" style="width:240px; height:auto">
+<img src="roguetail-0.jpg" style="width:auto; height:240px"> <img src="roguetail-1.jpg" style="width:auto; height:240px">
 <br>
 Tools : Construct 2<br>
 Year : 2017<br>
 Link : [Kiz10](https://kiz10.com/roguetail)<br>
 
 ### Brawl Shot
-<img src="brawlshot-0.png" style="width:240px; height:auto"> <img src="brawlshot-1.png" style="width:240px; height:auto"> <img src="hostrecon-2.png" style="width:240px; height:auto">
+<img src="brawlshot-0.png" style="width:240px; height:auto"> <img src="brawlshot-1.png" style="width:240px; height:auto">
 <br>
 Tools : Construct 2<br>
 Year : 2018<br>
