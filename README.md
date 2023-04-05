@@ -31,7 +31,7 @@ Year  : 2021<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/8)<br>
 
 ### Bola Mania (Multiplayer Online)
-<img src="bolamania-0.jpg" style="width:320px; height:auto"> <img src="bolamania-1.jpg" style="width:320px; height:auto">
+<img src="bolamania-0.jpg" style="width:320px; height:auto"> <img src="bolamania-1.jpg" style="width:320px; height:auto"><br>
 Tools : Phaser / Javascript / WebSocket<br>
 Year  : 2022<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/11)<br>
@@ -56,3 +56,16 @@ Tools : Construct 2<br>
 Year : 2018<br>
 Link : [Global Game Jam](https://globalgamejam.org/2018/games/host-recon)<br>
 
+### Rogue Tail
+<img src="roguetail-0.png" style="width:240px; height:auto"> <img src="roguetail-1.png" style="width:240px; height:auto"> <img src="hostrecon-2.png" style="width:240px; height:auto">
+<br>
+Tools : Construct 2<br>
+Year : 2017<br>
+Link : [Kiz10](https://kiz10.com/roguetail)<br>
+
+### Brawl Shot
+<img src="brawlshot-0.png" style="width:240px; height:auto"> <img src="brawlshot-1.png" style="width:240px; height:auto"> <img src="hostrecon-2.png" style="width:240px; height:auto">
+<br>
+Tools : Construct 2<br>
+Year : 2018<br>
+Link : [Github](https://github.com/pineakl/brawl-shot)<br>
