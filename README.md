@@ -57,7 +57,7 @@ Year : 2018<br>
 Link : [Global Game Jam](https://globalgamejam.org/2018/games/host-recon)<br>
 
 ### Rogue Tail
-<img src="roguetail-0.png" style="width:240px; height:auto"> <img src="roguetail-1.png" style="width:240px; height:auto"> <img src="hostrecon-2.png" style="width:240px; height:auto">
+<img src="roguetail-0.png" style="width:auto; height:240px"> <img src="roguetail-1.png" style="width:auto; height:240px"> <img src="hostrecon-2.png" style="width:240px; height:auto">
 <br>
 Tools : Construct 2<br>
 Year : 2017<br>
