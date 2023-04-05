@@ -2,6 +2,7 @@
 Markdown document showing my previous works
 
 ### Dewa Game App
+<img src="dgmobile.jpg" style="width:auto; height:320px"><br>
 Tools : Unity<br>
 Year  : TBD<br>
 Link  : -<br>
@@ -12,26 +13,31 @@ Year  : TBD<br>
 Link  : -<br>
 
 ### Candi Escape (Multiplayer Online)
+<img src="candiescape-0.jpg" style="width:auto; height:320px"> <img src="candiescape-1.jpg" style="width:auto; height:320px"><br>
 Tools : Construct 3 / Javascript / WebSocket<br>
 Year  : 2021<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/2)<br>
 
 ### Dewa Run (Multiplayer Online)
+<img src="dewarun-0.jpg" style="width:320px; height:auto"> <img src="dewarun-1.jpg" style="width:320px; height:auto"><br>
 Tools : Construct 3 / Javascript / WebSocket<br>
 Year  : 2021<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/5)<br>
 
-### Dewa Battle Elementak (Multiplayer Online)
+### Dewa Battle Elemental (Multiplayer Online)
+<img src="dewabattle-0.jpg" style="width:auto; height:320px"> <img src="dewabattle-1.jpg" style="width:auto; height:320px"><br>
 Tools : Construct 3 / Javascript / WebSocket<br>
 Year  : 2021<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/8)<br>
 
 ### Bola Mania (Multiplayer Online)
+<img src="bolamania-0.jpg" style="width:320px; height:auto"> <img src="bolamania-1.jpg" style="width:320px; height:auto">
 Tools : Phaser / Javascript / WebSocket<br>
 Year  : 2022<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/11)<br>
 
 ### Fishing Mania (Multiplayer Online)
+<img src="fishingmania-0.jpg" style="width:auto; height:320px"> <img src="fishingmania-1.jpg" style="width:auto; height:320px"><br>
 Tools : Phaser / Typescript / WebSocket<br>
 Year  : 2022<br>
 Link  : [Dewa Game](https://dewa.game/launchguest/kts/13)<br>
